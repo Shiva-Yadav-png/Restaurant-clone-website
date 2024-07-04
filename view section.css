@@ -1,0 +1,139 @@
+.food-munch-logo {
+    width: 100px;
+    height: 90px;
+  }
+  #navItem1 {
+   
+    color:#5a7184;
+    font-size:20px;
+    font-weight:650px;
+    font-family:Arial, Helvetica, sans-serif;
+    margin:10px;
+  }
+
+   
+ #navItem1:hover{
+        color:white;
+        background-color:#323f4b;
+        border-radius:8px;
+    }
+  
+  #navItem2 {
+    color:#5a7184;
+    font-size:20px;
+    font-weight:650px;
+    font-family:Arial, Helvetica, sans-serif;
+    margin:10px;
+  }
+
+  #navItem2:hover{
+    color:white;
+    background-color:#323f4b;
+    border-radius:8px;
+}
+
+  #navItem3 {
+    color:#5a7184;
+    font-size:20px;
+    font-weight:650px;
+    font-family:Arial, Helvetica, sans-serif;
+    margin:10px;
+  }
+
+  .follow-icon-container{
+
+    background-color:#7b8794;
+    border-radius:100px;
+    height:50px;
+    width:50px;
+    text-align:center;
+    margin:10px;
+  }
+  .follow-icons{
+    color:#323f4b;
+    font-size:27px;
+    margin-top:11px;
+    
+
+  }
+
+  .item-nav{
+    color:#323f4b;
+    font-size:25px;
+    font-weight:650px;
+    font-family:Arial, Helvetica, sans-serif;
+    margin:10px;
+  }
+
+  #navItem3:hover{
+    color:white;
+    background-color:#323f4b;
+    border-radius:8px;
+}
+  #navItem4 {
+    color:#5a7184;
+    font-size:20px;
+    font-weight:650px;
+    font-family:Arial, Helvetica, sans-serif;
+    margin:10px;
+  }
+
+  #navItem4:hover{
+    color:white;
+    background-color:#323f4b;
+    border-radius:8px;
+}
+.explore-menu-section {
+    background-color: white;
+  }
+  .menu-section-heading {
+    color: #183b56;
+    font-family: "Roboto";
+    font-size: 28px;
+    font-weight: 700;
+  }
+  .menu-item-image {
+    border-radius: 16px;
+    height:150px;
+    width:70px;
+  }
+  .menu-card-title {
+    color: #323f4b;
+    font-family: "Roboto";
+    font-size: 18px;
+    font-weight: 500;
+    margin-top: 24px;
+  }
+  .menu-item-link {
+    color: #d0b200;
+    font-family: "Roboto";
+    font-size: 14px;
+    font-weight: 500;
+  }
+  .menu-item-card-2 {
+    border-radius: 16px;
+   
+
+  }
+  #menusection{
+
+   padding:25px;
+  }
+  #menu-2{
+    margin-top:0.5px;
+  }
+
+  .custom-button {
+    color: white;
+    background-color: #d0b200;
+    width: 130px;
+    height: 45px;
+    border-width: 0;
+    border-radius: 8px;
+    margin-right: 10px;
+    margin-left:20px;
+    margin-top:15px;
+  }
+  
+
+

@@ -1,0 +1,156 @@
+.food-munch-logo {
+    width: 100px;
+    height: 90px;
+  }
+  #navItem1 {
+   
+    color:#5a7184;
+    font-size:20px;
+    font-weight:650px;
+    font-family:Arial, Helvetica, sans-serif;
+    margin:10px;
+  }
+
+   
+ #navItem1:hover{
+        color:white;
+        background-color:#323f4b;
+        border-radius:8px;
+    }
+  
+  #navItem2 {
+    color:#5a7184;
+    font-size:20px;
+    font-weight:650px;
+    font-family:Arial, Helvetica, sans-serif;
+    margin:10px;
+  }
+
+  #navItem2:hover{
+    color:white;
+    background-color:#323f4b;
+    border-radius:8px;
+}
+
+  #navItem3 {
+    color:#5a7184;
+    font-size:20px;
+    font-weight:650px;
+    font-family:Arial, Helvetica, sans-serif;
+    margin:10px;
+  }
+
+  .follow-icon-container{
+
+    background-color:#7b8794;
+    border-radius:100px;
+    height:50px;
+    width:50px;
+    text-align:center;
+    margin:10px;
+  }
+  .follow-icons{
+    color:#323f4b;
+    font-size:27px;
+    margin-top:11px;
+    
+
+  }
+
+  .item-nav{
+    color:#323f4b;
+    font-size:25px;
+    font-weight:650px;
+    font-family:Arial, Helvetica, sans-serif;
+    margin:10px;
+  }
+
+  #navItem3:hover{
+    color:white;
+    background-color:#323f4b;
+    border-radius:8px;
+}
+  #navItem4 {
+    color:#5a7184;
+    font-size:20px;
+    font-weight:650px;
+    font-family:Arial, Helvetica, sans-serif;
+    margin:10px;
+  }
+
+  #navItem4:hover{
+    color:white;
+    background-color:#323f4b;
+    border-radius:8px;
+}
+
+.bg-container-3{
+    background-color:#7b8794;
+    height:100vh;
+   
+   
+}
+
+.curosal-container{
+    height:300px;
+    margin:65px;
+    text-align:center;
+    border-radius:15px;
+    border-top-left-radius: 15px;
+    border-bottom-left-radius: 15px;
+    border-top-right-radius: 15px;
+    border-bottom-right-radius: 15px; 
+   
+ 
+   
+}
+.visit-section-images{
+    height:450px;
+    width:300px;
+    border-top-left-radius: 15px;
+    border-bottom-left-radius: 15px;
+    border-top-right-radius: 15px;
+    border-bottom-right-radius: 15px;
+}
+
+.item-nav-heading{
+  color:#323f4b;
+  font-size:30px;
+  font-weight:650px;
+  font-family:Arial, Helvetica, sans-serif;
+ padding-left:25px;
+  margin-top:170px;
+}
+.healthy-food-section-description-1 {
+    color:#323f4b;
+  font-family: "Roboto";
+  font-size: 16px;
+  width:800px;
+  padding-left:25px;
+}
+.healthy-food-section-description {
+  color:#323f4b;
+  font-family: "Roboto";
+  font-size: 16px;
+
+ 
+}
+
+.healthy-food-section-description-2 {
+  color:#323f4b;
+font-family: "Roboto";
+font-size: 20px;
+width:800px;
+padding-left:26px;
+}
+
+.custom-button {
+  color: white;
+  background-color: #d0b200;
+  width: 130px;
+  height: 45px;
+  border-width: 0;
+  border-radius: 8px;
+  margin-right: 10px;
+  margin-left:20px;
+}

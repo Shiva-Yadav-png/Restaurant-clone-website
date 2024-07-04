@@ -1,0 +1,154 @@
+.food-munch-logo {
+    width: 100px;
+    height: 90px;
+  }
+  #navItem1 {
+   
+    color:#5a7184;
+    font-size:20px;
+    font-weight:650px;
+    font-family:Arial, Helvetica, sans-serif;
+    margin:10px;
+  }
+
+   
+ #navItem1:hover{
+        color:white;
+        background-color:#323f4b;
+        border-radius:8px;
+    }
+  
+  #navItem2 {
+    color:#5a7184;
+    font-size:20px;
+    font-weight:650px;
+    font-family:Arial, Helvetica, sans-serif;
+    margin:10px;
+  }
+
+  #navItem2:hover{
+    color:white;
+    background-color:#323f4b;
+    border-radius:8px;
+}
+
+  #navItem3 {
+    color:#5a7184;
+    font-size:20px;
+    font-weight:650px;
+    font-family:Arial, Helvetica, sans-serif;
+    margin:10px;
+  }
+  .healthy-food-section-description {
+    color: #5a7184;
+    font-family: "Roboto";
+    font-size: 16px;
+  }
+
+  #navItem3:hover{
+    color:white;
+    background-color:#323f4b;
+    border-radius:8px;
+}
+  #navItem4 {
+    color:#5a7184;
+    font-size:20px;
+    font-weight:650px;
+    font-family:Arial, Helvetica, sans-serif;
+    margin:10px;
+  }
+
+  #navItem4:hover{
+    color:white;
+    background-color:#323f4b;
+    border-radius:8px;
+}
+
+.bg-container-3{
+    background-color:#7b8794;
+    height:70vh;
+   
+   
+}
+.follow-icons{
+    color:#323f4b;
+    font-size:27px;
+    margin-top:11px;
+    
+
+  }
+
+  .follow-icon-container{
+
+    background-color:#7b8794;
+    border-radius:100px;
+    height:50px;
+    width:50px;
+    text-align:center;
+    margin:10px;
+  }
+
+  .item-nav{
+    color:#323f4b;
+    font-size:25px;
+    font-weight:650px;
+    font-family:Arial, Helvetica, sans-serif;
+    margin:10px;
+  }
+
+  .tick-container{
+    height:200px;
+    width:200px;
+    border-radius:100px;
+    background-color:green;
+    text-align:center;
+    margin-left:auto;
+    margin-right:auto;
+    margin-top:100px;
+
+  }
+  .tick-icon{
+    color:white;
+    font-size:100px;
+    
+  }
+
+  .healthy-food-section-description-2 {
+    color:#323f4b;
+  font-family: "Roboto";
+  font-size: 35px;
+  width:800px;
+  padding-left:26px;
+  margin-left:390px;
+  margin-right:auto;
+  margin-top:20px;
+  }
+
+  .healthy-food-section-description-3 {
+    color:#323f4b;
+  font-family: "Roboto";
+  font-size: 35px;
+  width:800px;
+  padding-left:26px;
+  margin-left:470px;
+  margin-right:auto;
+  margin-top:20px;
+  }
+
+  .follow-icons{
+    color:white;
+    font-size:25px;
+    margin-top:11px;
+    
+
+  }
+
+  .follow-icon-container{
+
+    background-color:#d0b200;
+    border-radius:100px;
+    height:50px;
+    width:50px;
+    text-align:center;
+    margin:20px;
+  }
